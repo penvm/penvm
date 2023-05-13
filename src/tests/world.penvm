@@ -1,0 +1,6 @@
+name: world
+description:
+
+targets:
+  localhost:
+    scheme: local
